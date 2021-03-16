@@ -9,7 +9,7 @@
 <a><img src="https://img.shields.io/badge/mj0524321@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 
 ![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true&theme=flag-india)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjilee-03&layout=compact&&theme=flag-india)](https://github.com/minjilee-03)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjilee-03&layout=compact&&theme=flag-india)](https://github.com/minjilee-03)<br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
