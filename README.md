@@ -5,6 +5,7 @@
 <a><img src="https://img.shields.io/badge/mj0524321@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 ![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true&theme=flag-india)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjilee-03&layout=compact&&theme=flag-india)](https://github.com/minjilee-03)<br>
+![footer](https://capsule-render.vercel.app/api?section=footer)
 ## 🖥 MY STATS & TOOL 🖥
  <div id ="icon">
 <img src = "https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
@@ -22,5 +23,5 @@
 <img src = "https://img.shields.io/badge/Git-Hub-61DAFB?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
  </div>
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)                     
+                   
                          
