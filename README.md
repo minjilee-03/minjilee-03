@@ -2,7 +2,7 @@
 <h3 align='center'>Hi there 👋</h3>
 <br>
 <p align='center'> 
- <h3 align='center'>WELCOME MINJI LEE'S GIT-HUB 🥑</h3>
+ <h3 align='center'>🥑WELCOME MINJI LEE'S GIT-HUB 🥑</h3>
  </p>
 <br>
 <a href="https://www.notion.so/Page-LENDSEY-LEE-ff183a34c9b640ac990c463a9d8632d7" target="_blank"><img src="https://img.shields.io/badge/Notion-ff6694?style=flat-square&logo=Notion&logoColor=white"/></a>
