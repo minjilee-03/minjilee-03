@@ -2,7 +2,7 @@
 ### WELCOME MINJI LEE'S GIT-HUB 🥑
 ##### Hi, there! 👋
 
-![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true&Align=70)
+![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true)
 <p></p>
 
 ### 🖥 MY STATS & TOOL 🖥
