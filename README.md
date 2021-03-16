@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=01A7EA&height=500&section=header&text=🖤🤍MINJI%20LEE🤍🖤&fontSize=80&fontColor=FFFFFF&animation=fadeIn)
  # WELCOME MINJI LEE'S GIT-HUB 🥑
  ##### Hi, there! 👋
-<a><img src="https://img.shields.io/badge/s2019s14@e-mirim.hs.kr-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/s2019s14@emirim.hs.kr-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/mj0524321@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 ![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true&)<br>
 
