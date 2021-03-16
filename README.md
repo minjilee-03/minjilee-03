@@ -10,9 +10,7 @@
 
 ![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true&theme=flag-india)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjilee-03&layout=compact&&theme=flag-india)](https://github.com/minjilee-03)<br>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&color=1405F1)
-
+<h3 align='center'><img src="https://capsule-render.vercel.app/api?section=footer&color=1405F1" />
 <h3 align='center'> ✨ MY STATS & TOOL ✨ </h3>
 <p align='center'>
 <img src = "https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
