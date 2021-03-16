@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjilee-03&layout=compact&theme=dracula)](https://github.com/minjilee-03)<br>
 
-<center> ### 🖥 MY STATS & TOOL 🖥</center>
+<center> ###🖥 MY STATS & TOOL 🖥</center>
 <div id ="icon">
 <center><img src = "https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지"></center>
 <img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
