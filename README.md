@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=01A7EA&height=300&section=header&text=MINJI%20LEE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=FFFFFF)
 ### WELCOME MINJI LEE'S GIT-HUB 🥑
 ##### Hi, there! 👋
 
