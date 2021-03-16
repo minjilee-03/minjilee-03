@@ -1,4 +1,3 @@
-### minjilee-03 🥑
 ### MINJI LEE 🥑
 ##### Hi, there! 👋
 
