@@ -1,5 +1,5 @@
-<h3 align='center'> ![header](https://capsule-render.vercel.app/api?type=wave&color=01A7EA&height=500&section=header&text=🖤🤍MINJI%20LEE🤍🖤&fontSize=80&fontColor=FFFFFF&animation=fadeIn)</h3>
-<h3 align='center'>Hi there 👋</h3>
+![header](https://capsule-render.vercel.app/api?type=wave&color=01A7EA&height=500&section=header&text=🖤🤍MINJI%20LEE🤍🖤&fontSize=80&fontColor=FFFFFF&animation=fadeIn)</h3>
+<h3 align='center'>Hi there 👋
 <br>
 <p align='center'> 
  <h3 align='center'>🥑WELCOME MINJI LEE'S GIT-HUB 🥑</h3>
