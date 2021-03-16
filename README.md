@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=500&section=header&text=🖤🤍MINJI%20LEE🤍🖤&fontSize=80&fontColor=FFFFFF&animation=fadeIn&color=7C2DFB)</h3>
+<img src="https://capsule-render.vercel.app/api?type=wave&height=500&section=header&text=🖤🤍MINJI%20LEE🤍🖤&fontSize=80&fontColor=FFFFFF&animation=fadeIn&color=7C2DFB" />
+</h3>
 <h3 align='center'>Hi there 👋
 <br>
 <p align='center'> 
