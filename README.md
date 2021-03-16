@@ -5,7 +5,7 @@
 <a><img src="https://img.shields.io/badge/mj0524321@gmail.com-ba2727?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 ![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true&theme=solarized-light)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjilee-03&layout=compact&&theme=buefy)](https://github.com/minjilee-03)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjilee-03&layout=compact&&theme=solarized-light)](https://github.com/minjilee-03)<br>
 ## 🖥 MY STATS & TOOL 🖥
  <div id ="icon">
 <img src = "https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
