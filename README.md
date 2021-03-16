@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=01A7EA&height=500&section=header&text=🖤🤍MINJI%20LEE🤍🖤&fontSize=80&fontColor=FFFFFF&animation=fadeIn)
 ### WELCOME MINJI LEE'S GIT-HUB 🥑
 ##### Hi, there! 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metleeha&layout=compact&theme=dracula)](https://github.com/metleeha)
 ![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true)
 <p></p>
 
