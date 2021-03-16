@@ -2,10 +2,8 @@
                            ### WELCOME MINJI LEE'S GIT-HUB 🥑
                            ##### Hi, there! 👋
                          ![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true)<bt>
-
-                         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjilee-03&layout=compact&theme=dracula)](https://github.com/minjilee-03)<br>
-
-                         <center> ###🖥 MY STATS & TOOL 🖥</center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjilee-03&layout=compact&theme=dracula)](https://github.com/minjilee-03)<br>
+<center> ###🖥 MY STATS & TOOL 🖥</center>
                          <div id ="icon">
                          <img src = "https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
                          <img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
@@ -22,3 +20,5 @@
                          <img src = "https://img.shields.io/badge/Git-Hub-61DAFB?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
                          <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
                           </div>
+                         
+                         
