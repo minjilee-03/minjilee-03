@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=01A7EA&height=500&section=header&text=🖤🤍MINJI%20LEE🤍🖤&fontSize=80&fontColor=FFFFFF&animation=fadeIn)
- ### WELCOME MINJI LEE'S GIT-HUB 🥑
+ ## WELCOME MINJI LEE'S GIT-HUB 🥑
  ##### Hi, there! 👋
 ![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true)<br>
 
