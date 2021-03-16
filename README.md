@@ -3,7 +3,6 @@
 
 ![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true)
 <p></p>
-#icon {float:left;}
 <div id ="icon">
 <img src = "https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
 <img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Java&logoColor=white&link=https://www.oracle.com/java/technologies/지">
