@@ -10,7 +10,7 @@
 ![minjilee-03's github stats](https://github-readme-stats.vercel.app/api?username=minjilee-03&show_icons=true&theme=flag-india)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjilee-03&layout=compact&&theme=flag-india)](https://github.com/minjilee-03)<br>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=1405F1)
 
 <h3 align='center'> ✨ MY STATS & TOOL ✨ </h3>
 <p align='center'>
