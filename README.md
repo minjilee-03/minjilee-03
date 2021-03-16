@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=01A7EA&height=500&weight=1200section=header&text=🖤🤍MINJI%20LEE🤍🖤&fontSize=80&fontColor=FFFFFF&animation=fadeIn)</h3>
+![header](https://capsule-render.vercel.app/api?type=wave&color=01A7EA&height=500&weight=1200&section=header&text=🖤🤍MINJI%20LEE🤍🖤&fontSize=80&fontColor=FFFFFF&animation=fadeIn)</h3>
 <h3 align='center'>Hi there 👋
 <br>
 <p align='center'> 
